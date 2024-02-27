@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Aca van los tamanos de pantalla, alto, ancho, etc. Todas las medidas necesarias   -->
+    <!-- Dimensiones generales -->
+    <dimen name="spacing_small">4dp</dimen>
+    <dimen name="spacing_medium">8dp</dimen>
+    <dimen name="spacing_large">16dp</dimen>
+
+    <!-- Tamaños de fuente -->
+    <dimen name="text_size_small">12sp</dimen>
+    <dimen name="text_size_medium">16sp</dimen>
+    <dimen name="text_size_large">20sp</dimen>
+
+    <!-- Anchos y altos de vistas -->
+    <dimen name="view_width_small">100dp</dimen>
+    <dimen name="view_width_medium">200dp</dimen>
+    <dimen name="view_width_large">300dp</dimen>
+
+    <dimen name="view_height_small">100dp</dimen>
+    <dimen name="view_height_medium">200dp</dimen>
+    <dimen name="view_height_large">300dp</dimen>
+
+    <!-- Margenes y paddings -->
+    <dimen name="margin_small">4dp</dimen>
+    <dimen name="margin_medium">8dp</dimen>
+    <dimen name="margin_large">16dp</dimen>
+
+    <dimen name="padding_small">4dp</dimen>
+    <dimen name="padding_medium">8dp</dimen>
+    <dimen name="padding_large">16dp</dimen>
+
+    <!-- Tamaños de iconos -->
+    <dimen name="icon_size_small">24dp</dimen>
+    <dimen name="icon_size_medium">36dp</dimen>
+    <dimen name="icon_size_large">48dp</dimen>
+
+    <!-- Dimensiones de barra de acción -->
+    <dimen name="action_bar_height">56dp</dimen>
+    <dimen name="action_bar_icon_size">24dp</dimen>
+
+    <!-- Tamaño de imágenes -->
+    <dimen name="image_size_small">200dp</dimen>
+    <dimen name="image_size_medium">300dp</dimen>
+    <dimen name="image_size_large">400dp</dimen>
+</resources>
